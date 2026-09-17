@@ -13,7 +13,7 @@ release assets:
 - `zero_day_measure_seven_colored_lights.glb`
 
 They are available from the
-[`zero-day-assets-v1` release](https://github.com/bevyengine/bevy_asset_files/releases/tag/zero-day-assets-v1).
+[`zero-day-1.0` release](https://github.com/bevyengine/bevy_asset_files/releases/tag/zero-day-1.0).
 
 ## Converting from source
 
